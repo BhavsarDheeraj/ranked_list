@@ -1,7 +1,8 @@
 name: ranked_list
 description: A tiny library allows you to create ranked list view.
-version: 0.0.1
-author: Dheeraj Bhavsar
+version: 0.0.2
+authors: 
+  - dheerajbhavsar940@gmail.com
 homepage: https://github.com/BhavsarDheeraj/ranked_list
 
 environment:
