@@ -7,6 +7,10 @@ A tiny library allows you to create ranked list view ex: Leaderboard
 
 **Issues and Pull Requests are really appreciated!**
 
+## Showcase
+
+![Showscase gif](https://media.giphy.com/media/cRrc6hyOMgOKzmw6KP/giphy.gif)
+
 ## Include to your project
 
 In your `pubspec.yaml` root add:
